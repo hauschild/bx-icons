@@ -1,1 +1,1 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256"><defs><style>.a{fill:#e03131;}</style></defs><title>Asset 1</title><polygon class="a" points="181.02 0 74.98 0 0 74.98 0 181.02 74.98 256 181.02 256 256 181.02 256 74.98 181.02 0"/></svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256"><defs><style>.a{fill:none;}.b{fill:#e03131;}</style></defs><title>Asset 1</title><rect class="a" width="256" height="256"/><path class="b" d="M165.69,37H90.31L37,90.31v75.39L90.31,219h75.39L219,165.69V90.31Z"/></svg>
